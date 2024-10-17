@@ -23,7 +23,7 @@ navLinks.addEventListener("click", (e) => {
 const scrollRevealOption = {
     distnce: "50px",
     origin: "bottom",
-    duration: 1000,
+    duration: 4000,
 };
 
 
@@ -52,7 +52,7 @@ ScrollReveal().reveal(".header_content .bar", {
 
 
 ScrollReveal().reveal(".header_img_card", {
-    duration: 1000,
+    duration: 2000,
     interval: 500,
     delay: 2500,
 });
