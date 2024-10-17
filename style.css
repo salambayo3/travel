@@ -16,9 +16,6 @@
     box-sizing: border-box;
 }
 
-body {
-    background-color: #ccc;
-}
 
 img {
     display: flex;
